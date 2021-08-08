@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HimanshuKanojiya from Noida, India
+- 👋 Hi, I’m Himanshu Kanojiya from Noida, India
 - 🌱 I’m currently learning React JS, MongoDB/Mongoose (Atlas Server), Node JS, JavaScript, Express JS, Functional Programming, and Testing with Jest
 - 👀 I’m interested in Web development & creating mods in Games like GTA 5
 - 💞️ I’m looking to do Job Switch to web development
