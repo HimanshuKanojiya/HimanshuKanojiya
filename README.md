@@ -1,4 +1,5 @@
-# Hello there! 👋🏻 I am Himanshu Kanojiya! <img src="https://avatars.githubusercontent.com/u/33418139?v=4" alt="Meaow" width="50" />
+<img src="https://avatars.githubusercontent.com/u/33418139?v=4" alt="HimanshuKanojiya" width="100" />
+# Hello there! 👋🏻 I am Himanshu Kanojiya! 
 
 - 🌱 Technology Stack, I am working on & know about React JS, MongoDB/Mongoose (Atlas Server), Node JS, JavaScript, Express JS, Python
 - 🌱 I’m currently learning Functional Programming, and Testing with Jest
