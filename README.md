@@ -3,6 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Himanshu%20Kanojiya-%238c52ff?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/himanshukanojiya98/) 
 [![Twiiter](https://img.shields.io/badge/Twitter-Himanshu%20Kanojiya-%238c52ff?style=for-the-badge&logo=twitter)](https://twitter.com/himanshuanon) 
+[![Gmail](https://img.shields.io/badge/Gmail-Himanshu%20Kanojiya-%238c52ff?style=for-the-badge&logo=gmail)](mailto:himanshukanojiya825@gmail.com) 
 
 
 # Hello there! 👋🏻 I am Himanshu Kanojiya!
@@ -29,6 +30,15 @@
 <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" />
   &nbsp;
 <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#" />
+  &nbsp;
+<img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="SaaS Preprocessor" />
+  &nbsp;
+<img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" />
+  &nbsp;
+<img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" />
+&nbsp;
+<img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" />
+
 </p>
   
 
