@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4E16AQGYGfk-sYCtlA/profile-displaybackgroundimage-shrink_350_1400/0/1626705999260?e=1634169600&v=beta&t=VwgLOTpOVLzCxRRobwDxAsG7S_Fr-nTufGcrHC208bs" style="width:100%; height:40vh;"/>
+<img src="https://raw.githubusercontent.com/HimanshuKanojiya/HimanshuKanojiya/main/images/readmePoster.png" style="width:100%; height:40vh;"/>
 
 # Hello there! 👋🏻 I am Himanshu Kanojiya!
 
