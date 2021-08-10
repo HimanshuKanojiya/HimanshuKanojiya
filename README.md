@@ -37,7 +37,6 @@
 <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" />
 &nbsp;
 <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" />
-
 </p>
   
 ### My Publications/Articles/Online Contribution :writing_hand::
@@ -61,8 +60,3 @@
   Python Program for Fibonacci numbers (improved and corrected Python Code)</a>
 - <a href="https://www.geeksforgeeks.org/priority-queue-using-linked-list/">
   Priority Queue using Linked List (Contributed Python Code)</a>
-
-<!---
-HimanshuKanojiya/HimanshuKanojiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
