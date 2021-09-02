@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/HimanshuKanojiya/HimanshuKanojiya/main/images/readmePoster.png" style="width:100%; height:10vh;"/>
+<img src="https://raw.githubusercontent.com/HimanshuKanojiya/HimanshuKanojiya/main/images/readmePoster.png" style="width:100%; height:25vh;"/>
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Himanshu%20Kanojiya-%238c52ff?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/himanshukanojiya98/) 
