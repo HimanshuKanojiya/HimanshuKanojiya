@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Functional Programming with JavaScript, and Testing with Jest
 - :books: Sharing knowledge about JavaScript, React on LinkedIn & Twitter.
 - 👀 I’m interested in Web development & creating mods in Games like GTA 5
-- 💞️ Working as Software Developer in React, and looking to settle in abroad
+- 💞️ Working as Software Engineer (React), and looking to settle in abroad
 - 📫 You can reach me at **himanshukanojiya825@gmail.com**
 
 
