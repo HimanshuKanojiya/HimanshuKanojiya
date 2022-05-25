@@ -15,7 +15,7 @@ Experienced React JS Developer with 1+ years of experience building production-r
 * ✉️  You can contact me at [himanshukanojiya825@gmail.com](mailto:himanshukanojiya825@gmail.com)
 * 🚀  I'm currently working on [Amazon Web Clone - React Js](http://react-web-stg-amazon.vercel.app/)
 * 🧠  I'm learning Micro-frontend
-* Resume: [View Now](https://drive.google.com/file/d/1ZMVlb7CHJkOxK7N31gQSrnVaGCLkiWF_/view?usp=sharing)
+* 📃  Resume: [View Now](https://drive.google.com/file/d/1ZMVlb7CHJkOxK7N31gQSrnVaGCLkiWF_/view?usp=sharing)
 
 ### 💻 Tech Skills
 
