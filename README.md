@@ -9,12 +9,12 @@ Hi 👋 My name is Himanshu Kanojiya
 [![Twiiter](https://img.shields.io/badge/Twitter-Himanshu%20Kanojiya-%238c52ff?style=for-the-badge&logo=twitter)](https://twitter.com/himanshuanon) 
 [![Gmail](https://img.shields.io/badge/Gmail-Himanshu%20Kanojiya-%238c52ff?style=for-the-badge&logo=gmail)](mailto:himanshukanojiya825@gmail.com) 
 
-Experienced React JS Developer with 2+ years of experience building production-ready web applications using Next JS, Typescript, JavaScript, Firebase, Redux & Redux Toolkit.
+Experienced React JS Developer with 2.3+ years of experience building production-ready web applications using Next JS, Typescript, JavaScript, Firebase, Redux & Redux Toolkit.
 
 * 🌍  I'm based in Noida, India
 * ✉️  You can contact me at [himanshukanojiya825@gmail.com](mailto:himanshukanojiya825@gmail.com)
 * 🧠  I'm learning Micro-frontend
-* 📃  Resume: [View Now](https://drive.google.com/file/d/1tTkGFycQ9HSeT2yCLEc-wdxvHivsBcPo/view?usp=share_link)
+* 📃  Resume: [View Now](https://drive.google.com/file/d/1tU_LK3eS-GDQk9yGePt1Y9J7gPuZ5Jsc/view?usp=sharing)
 
 ### 💻 Tech Skills
 
